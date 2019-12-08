@@ -1,2 +1,5 @@
 # Hello-world
 Getting to know GitHub.
+
+hey guys! 
+My name is Artur and i'm learning to use GitHub.
